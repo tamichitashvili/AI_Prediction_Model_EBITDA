@@ -1,0 +1,19 @@
+# Data files — not committed (proprietary Orbis/BvD data, large binary files)
+*.xlsb
+*.xlsx
+*.xls
+*.csv
+
+# Notebook outputs
+NL_EBITDA_predictions_*.xlsx
+NL_companies_EBITDA_complete.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
